@@ -1,1 +1,0 @@
-# temperature-vegetation-density-and-total-precipitation-over-the-Brazilian-Amazon-for-1979-2019
